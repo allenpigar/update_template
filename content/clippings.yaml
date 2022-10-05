@@ -1,0 +1,21 @@
+
+  - id: "c18e-a046-56dd"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 17
+      listed: true
+    data:
+      footer_text: "A business services company."
+      logo: "https://mvxf7563.media.zestyio.com/zesty-acme-services-anchor.png"
+      site_name: "Acme Services Template"

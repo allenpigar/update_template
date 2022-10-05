@@ -1,0 +1,55 @@
+
+  - id: "26e6-cfb8-f27b"
+    web:
+      metaDescription: ""
+      metaTitle: "Business"
+      metaLinkText: "Business"
+      metaKeywords: null
+      pathPart: "business"
+      path: "/business/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 16
+      listed: true
+    data:
+      name: "Marketing"
+  - id: "81f1-b427-da35"
+    web:
+      metaDescription: ""
+      metaTitle: "Technology"
+      metaLinkText: "Technology"
+      metaKeywords: null
+      pathPart: "technology"
+      path: "/technology/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 14
+      listed: true
+    data:
+      name: "Tech"
+  - id: "6f68-292d-1236"
+    web:
+      metaDescription: ""
+      metaTitle: "Finance"
+      metaLinkText: "Finance"
+      metaKeywords: null
+      pathPart: "finance"
+      path: "/finance/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 15
+      listed: true
+    data:
+      name: "Finance"
